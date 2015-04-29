@@ -1,0 +1,25 @@
+Add more grime, rubble and dark colors.
+Dark areas
+
+---------------------------------------------------------
+
+
+You come across a door that triggers a sound clip to play (trigger infront of door)
+
+ "Pssst, hey!" (insane gigeling)
+ "Can you go get me some of those glowy mushrooms?"
+
+ (insane gigeling)
+
+ "I locked myself in here"
+
+So you have to go find and collect a few of these mushrooms.
+
+When you return to the door you see its open.
+
+There will be another trigger that triggers the insane giggle down the tunnle (3D Sound) (the door will be around a bend so the trigger needs to activate when the player comes around the bend)
+
+the player can now enter the room
+
+
+
