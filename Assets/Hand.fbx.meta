@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: d9755afef921b4240abad652e9eaf5e9
+timeCreated: 1430288349
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arm_Rig
+    100002: Bone
+    100004: Cam
+    100006: Camera
+    100008: Fix.L
+    100010: Fix.R
+    100012: forearm.L
+    100014: forearm.R
+    100016: //RootNode
+    100018: Hand
+    100020: hand.L
+    100022: hand.R
+    100024: Head Cam
+    100026: IK.hand.L
+    100028: IK.hand.R
+    100030: IK_Arm.L
+    100032: IK_Arm.R
+    100034: index.L
+    100036: index.L.001
+    100038: index.L.002
+    100040: index.R
+    100042: index.R.001
+    100044: index.R.002
+    100046: middle.L
+    100048: middle.L.001
+    100050: middle.L.002
+    100052: middle.R
+    100054: middle.R.001
+    100056: middle.R.002
+    100058: palm.L
+    100060: palm.L.001
+    100062: palm.L.002
+    100064: palm.L.003
+    100066: palm.R
+    100068: palm.R.001
+    100070: palm.R.002
+    100072: palm.R.003
+    100074: pinkie.L
+    100076: pinkie.L.001
+    100078: pinkie.L.002
+    100080: pinkie.R
+    100082: pinkie.R.001
+    100084: pinkie.R.002
+    100086: pole_shape.L
+    100088: pole_shape.L.001
+    100090: pole_shape.R
+    100092: pole_shape.R.001
+    100094: ring.L
+    100096: ring.L.001
+    100098: ring.L.002
+    100100: ring.R
+    100102: ring.R.001
+    100104: ring.R.002
+    100106: Sun
+    100108: thumb.L
+    100110: thumb.L.001
+    100112: thumb.L.002
+    100114: thumb.R
+    100116: thumb.R.001
+    100118: thumb.R.002
+    100120: upper_arm.L
+    100122: upper_arm.R
+    400000: Arm_Rig
+    400002: Bone
+    400004: Cam
+    400006: Camera
+    400008: Fix.L
+    400010: Fix.R
+    400012: forearm.L
+    400014: forearm.R
+    400016: //RootNode
+    400018: Hand
+    400020: hand.L
+    400022: hand.R
+    400024: Head Cam
+    400026: IK.hand.L
+    400028: IK.hand.R
+    400030: IK_Arm.L
+    400032: IK_Arm.R
+    400034: index.L
+    400036: index.L.001
+    400038: index.L.002
+    400040: index.R
+    400042: index.R.001
+    400044: index.R.002
+    400046: middle.L
+    400048: middle.L.001
+    400050: middle.L.002
+    400052: middle.R
+    400054: middle.R.001
+    400056: middle.R.002
+    400058: palm.L
+    400060: palm.L.001
+    400062: palm.L.002
+    400064: palm.L.003
+    400066: palm.R
+    400068: palm.R.001
+    400070: palm.R.002
+    400072: palm.R.003
+    400074: pinkie.L
+    400076: pinkie.L.001
+    400078: pinkie.L.002
+    400080: pinkie.R
+    400082: pinkie.R.001
+    400084: pinkie.R.002
+    400086: pole_shape.L
+    400088: pole_shape.L.001
+    400090: pole_shape.R
+    400092: pole_shape.R.001
+    400094: ring.L
+    400096: ring.L.001
+    400098: ring.L.002
+    400100: ring.R
+    400102: ring.R.001
+    400104: ring.R.002
+    400106: Sun
+    400108: thumb.L
+    400110: thumb.L.001
+    400112: thumb.L.002
+    400114: thumb.R
+    400116: thumb.R.001
+    400118: thumb.R.002
+    400120: upper_arm.L
+    400122: upper_arm.R
+    2300000: pole_shape.L
+    2300002: pole_shape.L.001
+    2300004: pole_shape.R
+    2300006: pole_shape.R.001
+    3300000: pole_shape.L
+    3300002: pole_shape.L.001
+    3300004: pole_shape.R
+    3300006: pole_shape.R.001
+    4300000: Hand
+    4300002: pole_shape.L
+    4300004: pole_shape.R
+    4300006: pole_shape.L.001
+    4300008: pole_shape.R.001
+    7400000: Arm_Rig|Idle.001
+    9500000: //RootNode
+    13700000: Hand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
