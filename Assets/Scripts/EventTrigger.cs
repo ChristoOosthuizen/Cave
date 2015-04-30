@@ -1,11 +1,19 @@
+<<<<<<< HEAD
 ﻿
 using UnityEngine;
+=======
+﻿using UnityEngine;
+>>>>>>> 33b156abcf5d0296cc1fba698ef0c62835f52d6d
 using ShinobiTools;
 using System.Collections;
 using System.Collections.Generic;
 
+<<<<<<< HEAD
 public class EventTrigger : ShinobiMono
 {
+=======
+public class EventTrigger : ShinobiMono{
+>>>>>>> 33b156abcf5d0296cc1fba698ef0c62835f52d6d
 
     //List of all possible events that the trigger can call
     public List<Animator> animations;
@@ -36,10 +44,16 @@ public class EventTrigger : ShinobiMono
 
     public Vector3 audioLocation;
 
+<<<<<<< HEAD
     void Start()
     {
 
     }
+=======
+    void Start () {
+	
+	}
+>>>>>>> 33b156abcf5d0296cc1fba698ef0c62835f52d6d
 
     void OnTriggerEnter(Collider other)
     {
@@ -47,7 +61,11 @@ public class EventTrigger : ShinobiMono
         {
             //Starts timer to reset event
             if (!singleEvent)
+<<<<<<< HEAD
                 SetTimer(timeToReset, false, () => { ResetTrigger(eventNumber); });
+=======
+                SetTimer(timeToReset, false, () => { ResetTrigger(eventNumber); }); 
+>>>>>>> 33b156abcf5d0296cc1fba698ef0c62835f52d6d
 
             //Plays animation if event supports animation
             if (playAnimation)
