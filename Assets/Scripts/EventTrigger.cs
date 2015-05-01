@@ -1,6 +1,5 @@
 ﻿
 using UnityEngine;
-﻿using UnityEngine;
 using ShinobiTools;
 using System.Collections;
 using System.Collections.Generic;
