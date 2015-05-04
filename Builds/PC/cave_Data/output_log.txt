@@ -1,0 +1,37 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M    (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shane\OneDrive\Unity\Cave\Builds\PC\cave_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shane\OneDrive\Unity\Cave\Builds\PC\cave_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shane\OneDrive\Unity\Cave\Builds\PC\cave_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Shane\OneDrive\Unity\Cave\Builds\PC\cave_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Shane\OneDrive\Unity\Cave\Builds\PC\cave_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shane\OneDrive\Unity\Cave\Builds\PC\cave_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shane\OneDrive\Unity\Cave\Builds\PC\cave_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Shane\OneDrive\Unity\Cave\Builds\PC\cave_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Shane\OneDrive\Unity\Cave\Builds\PC\cave_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shane\OneDrive\Unity\Cave\Builds\PC\cave_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Shane\OneDrive\Unity\Cave\Builds\PC\cave_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Shane\OneDrive\Unity\Cave\Builds\PC\cave_Data\Managed\System.dll (this message is harmless)
+Shader 'Effects/Distortion/CullBack+1': fallback shader 'Effects/Distortion/Free/CullBack' not found
+The AnimationClip 'Breaking Walkway' used by the Animation component 'BreakingWalkway' must be marked as Legacy.
+ 
+(Filename:  Line: 1901)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4d1c -> priority: 1 
+  Thread -> id: 4b64 -> priority: 1 

@@ -60,7 +60,7 @@ ModelImporter:
       name: Breaking Walkway
       takeName: Take 001
       firstFrame: 0
-      lastFrame: 100
+      lastFrame: 5
       wrapMode: 1
       orientationOffsetY: 0
       level: 0
